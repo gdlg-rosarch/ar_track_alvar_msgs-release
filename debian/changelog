@@ -1,0 +1,15 @@
+ros-jade-ar-track-alvar-msgs (0.5.1-0utopic) utopic; urgency=high
+
+  * Release into Jade ROS
+  * Contributors: Isaac IY Saito
+
+ -- Scott Niekum <sniekum@cs.umass.edu>  Sun, 12 Apr 2015 07:00:00 -0000
+
+ros-jade-ar-track-alvar-msgs (0.5.0-0utopic) utopic; urgency=high
+
+  * migrate from ar_track_alvar repository
+  * Contributors: Jihoon Lee
+
+ -- Scott Niekum <sniekum@cs.umass.edu>  Wed, 25 Jun 2014 07:00:00 -0000
+
+
